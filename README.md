@@ -4,7 +4,7 @@
 
 
 
-![Uploading AlitaBattleGIF.gif…]()<img width="498" height="185" alt="NatureBeautyGIF" src="https://github.com/user-attachments/assets/37246f90-8e47-4373-a032-64b5eab4a899" />
+<img width="498" height="185" alt="NatureBeautyGIF" src="https://github.com/user-attachments/assets/37246f90-8e47-4373-a032-64b5eab4a899" />
 
 
 
