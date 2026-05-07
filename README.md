@@ -2,7 +2,7 @@
 
 
 
-<img width="498" height="277" alt="NatureJapanGIF" src="https://github.com/user-attachments/assets/0e51c7c7-25ca-4b2f-8cd8-3e97b06e082c" />
+<br><img width="498" height="277" alt="NatureJapanGIF" src="https://github.com/user-attachments/assets/0e51c7c7-25ca-4b2f-8cd8-3e97b06e082c" /></br>
 
 
 
